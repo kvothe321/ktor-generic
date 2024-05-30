@@ -3,5 +3,5 @@ ktor:
     modules:
       - net.kvt_craft.ApplicationKt.module
   deployment:
-    port: 8080
+    port: 22004
 
